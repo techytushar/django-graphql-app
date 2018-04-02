@@ -1,5 +1,7 @@
 ### A simple app to understand the working of GraphQL. It shows the summary of the user's Github profile. 
 
+![image](https://github.com/techytushar/django-graphql-app/img.png)
+
 ## Usage:
 
 1. Create a Python virtual environment in the root using `python3 -m virtualenv .` and activate it `source bin/activate`
