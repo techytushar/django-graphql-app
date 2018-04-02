@@ -1,6 +1,6 @@
 ### A simple app to understand the working of GraphQL. It shows the summary of the user's Github profile. 
 
-![image](https://github.com/techytushar/django-graphql-app/img.png)
+![image](https://raw.githubusercontent.com/techytushar/django-graphql-app/master/img.png)
 
 ## Usage:
 
